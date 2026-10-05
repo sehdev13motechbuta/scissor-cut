@@ -1,0 +1,6 @@
+{
+  "name": "Scissor Cut",
+  "description": "Premier unisex salon and beauty academy in Mohali offering haircuts, styling, nail art, makeup, bridal services, and professional courses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
